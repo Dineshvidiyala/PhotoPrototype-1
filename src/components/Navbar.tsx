@@ -24,7 +24,7 @@ const Navbar: React.FC<NavbarProps> = ({ currentPage, onPageChange }) => {
           {/* Logo */}
           <div className="flex-shrink-0 cursor-pointer" onClick={() => onPageChange('home')}>
             <img
-              src="/public/WhatsApp Image 2025-08-03 at 11.26.40_73a56a2d.jpg"
+              src="/public/Logo.jpg"
               alt="UV Shutters Photography"
               className="h-12 w-auto object-contain"
             />
